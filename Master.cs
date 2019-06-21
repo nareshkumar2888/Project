@@ -17,6 +17,7 @@ public class Master
  Console.WriteLine("Enter Your Designation:");
 Designation=Console.ReadLine();
 Console.WriteLine(Mastername,Designation);
+//
  }
  
  }
