@@ -25,6 +25,7 @@ public class Master
 >>>>>>> Decorate_Name
 Designation=Console.ReadLine();
 Console.WriteLine(Mastername,Designation);
+//
  }
  
  }
